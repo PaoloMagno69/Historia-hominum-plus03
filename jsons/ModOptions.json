@@ -20,7 +20,7 @@
 }, 
 {
 	 "nationsToRemove":["Rio de Janeiro","Helsinki","Dublin","Edinburgh"],
-	/* "buildingsToRemove": ["National Treasury"] */
+	 "buildingsToRemove": ["National Treasury"] 
 } */
 {
   "pantheonBase": 20,
