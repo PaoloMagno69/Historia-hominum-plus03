@@ -17,6 +17,10 @@
     "constants": {
 		"maxXPfromBarbarians": 10000 /* Unlimited promotions of XP from barbarians.
 	}
+}, 
+{
+	 "nationsToRemove":["Rio de Janeiro","Helsinki","Dublin","Edinburgh"],
+	/* "buildingsToRemove": ["National Treasury"] */
 } */
 {
   "pantheonBase": 20,
