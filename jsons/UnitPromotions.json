@@ -60,7 +60,7 @@
 },
 {
 		"name": "Resilienza italiana",
-		"uniques": "[+5] HP when healing",
+		"uniques": ["[+5] HP when healing",
 			"[+50]% XP gained from combat"]
 },
 {
