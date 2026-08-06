@@ -1,0 +1,279 @@
+[
+	{
+		"name": "scopri segni culturali",
+		"notification": "Abbiamo scoperto segni culturali tra le rovine! (+20 cultura)",
+		"uniques": ["Gain [20] [Culture] <(modified by game speed)>"],
+		"color": "#cf8ff7"
+	},
+	{
+		"name": "scopri manufatti culturali",
+		"notification": "Abbiamo trovato antichi manufatti culturali tra le rovine! (+50 cultura)",
+		"uniques": ["Gain [50] [Culture] <(modified by game speed)>"],
+		"color": "#cf8ff7"
+	},
+	{
+		"name": "ispirazione culturale condivisa",
+		"notification": "I contadini del luogo condividono i segreti della loro società ordinata! (+[cultureAmount] cultura)",
+		"uniques": [
+			"Gain [80]-[120] [Culture] <(modified by game speed)>",
+			"Only available <after discovering [Language and Oral Traditions]>"
+		],
+		"color": "#cf8ff7"
+	},
+	{
+		"name": "adotta una politica estera",
+		"notification": "Abbiamo scoperto scritti su nuove idee politiche: possiamo provare ad adottarle!",
+		"uniques": [
+			"Free Social Policy",
+			"Only available <after discovering [Mining]>"
+		],
+		"color": "#cf8ff7"
+	},
+	{
+		"name": "scopri una frazione di tecnologia",
+		"notification": "Abbiamo scoperto frammenti di una tecnologia avanzata! (+50 scienza)",
+		"uniques": ["Gain [50] [Science] <(modified by game speed)>"],
+		"color": "#7f7fff"
+	},
+	{
+		"name": "scopri una nota di ricerca",
+		"notification": "Abbiamo trovato gli appunti di ricerca di un antico inventore! (+[scienceAmount] scienza)",
+		"uniques": [
+			"Gain [80]-[120] [Science] <(modified by game speed)>",
+			"Only available <after discovering [Chipped Stone Tools]>"
+		],
+		"color": "#7f7fff"
+	},
+	{
+		"name": "tecnologia recuperata",
+		"notification": "Siamo riusciti a decifrare ed estrarre le conoscenze di una tecnologia perduta! (+[scienceAmount] scienza)",
+		"uniques": [
+			"Gain [140]-[180] [Science] <(modified by game speed)>",
+			"Only available <after discovering [Tribal Society]>"
+		],
+		"color": "#7f7fff"
+	},
+	{
+		"name": "scopri una tecnologia perduta",
+		"notification": "Abbiamo scoperto la tecnologia perduta di [techName] tra le rovine!",
+		"uniques": ["Grants a random free researchable Tech"],
+		"color": "#7f7fff"
+	},
+	{
+		"name": "piccola somma di monete",
+		"notification": "Trovata una piccola somma di monete sepolta sottoterra! (+50 oro)",
+		"uniques": [
+			"Gain [50] [Gold] <(modified by game speed)>",
+			"Only available <after discovering [Invenzione della moneta]>"
+		],
+		"color": "#ffeb7f"
+	},
+	{
+		"name": "un gruzzolo d'oro",
+		"notification": "Un gruzzolo di monete d'oro sepolto sottoterra! (+100 oro)",
+		"uniques": [
+			"Gain [100] [Gold] <(modified by game speed)>",
+			"Only available <after discovering [Coinage]>"
+		],
+		"color": "#ffeb7f"
+	},
+	{
+		"name": "una riserva d'oro",
+		"notification": "Abbiamo trovato una riserva di [goldAmount] Oro tra le rovine!",
+		"uniques": [
+			"Gain [50]-[100] [Gold] <(modified by game speed)>",
+			"Only available <after discovering [Coinage]>"
+		],
+		"color": "#ffeb7f"
+	},
+	{
+		"name": "colpo di fortuna",
+		"notification": "Un incredibile tesoro nascosto! (+1000 oro)",
+		"uniques": [
+			"Gain [1000] [Gold] <(modified by game speed)>",
+			"Only available <after discovering [Coinage]>"
+		],
+		"color": "#ffeb7f"
+	},
+	{
+		"name": "scopri simboli sacri",
+		"notification": "Abbiamo trovato simboli sacri tra le rovine, ottenendo una comprensione più profonda dello spirito! (+[faithAmount] Fede)",
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"Gain enough Faith for a Pantheon",
+			"Only available <before founding a Pantheon>",
+			"Only available <after discovering [Megalithism]>"
+		],
+		"color": "#CDDDF4"
+	},
+	{
+		"name": "un sacerdote in preghiera",
+		"notification": "Un sacerdote morente prega per il vostro popolo! (+[faithAmount] fede)",
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"Gain [100]-[250] [Faith] <(modified by game speed)>",
+			"Only available <after founding a Pantheon>",
+			"Only available <after discovering [Megalithism]>"
+		],
+		"color": "#CDDDF4"
+	},
+	{
+		"name": "un oracolo itinerante",
+		"notification": "Un oracolo predice un grande futuro per la tua civiltà! (+[faithAmount] fede)",
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"Gain [250]-[350] [Faith] <(modified by game speed)>",
+			"Only available <after founding a Pantheon>",
+			"Only available <after discovering [Megalithism]>"
+		],
+		"color": "#CDDDF4"
+	},
+	{
+		"name": "un'antica profezia",
+		"notification": "Abbiamo rinvenuto un'antica profezia tra le rovine, rafforzando immensamente il nostro legame spirituale! (+[faithAmount] Fede)",
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"Gain enough Faith for [33]% of a Great Prophet",
+			"Unavailable <after generating a Great Prophet>",
+			"Only available <after founding a Pantheon>",
+			"Only available <after discovering [Megalithism]>"
+		],
+		"color": "#CDDDF4"
+	},
+	{
+		"name": "superstiti si uniscono alla tribù",
+		"notification": "Un piccolo gruppo di superstiti si unisce alla tua tribù! Popolazione aumentata a [cityName].",
+		"uniques": [
+			"[+1] population [in capital]",
+			"Only available <after discovering [Tribal Society]>"
+		],
+		"color": "#81c784"
+	},
+	{
+		"name": "immigrati accolti (aggiunge 3 popolazione)",
+		"notification": "Una famiglia di immigrati è stata tratta in salvo dalle rovine! Popolazione aggiunta a [cityName].",
+		"uniques": [
+			"[+3] population [in capital]",
+			"Only available <after discovering [Sedentism]>"
+		],
+		"color": "#81c784"
+	},
+	{
+		"name": "sfollati disposti a lavorare per te",
+		"notification": "Un gruppo di [Worker] si è unito alla nostra civiltà!",
+		"uniques": ["Free [Worker] found in the ruins"],
+		"excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"]
+	},
+	{
+		"name": "sfollati desiderosi di insediarsi",
+		"notification": "Un gruppo di [Settler] si è unito a noi!",
+		"uniques": ["Free [Settler] found in the ruins", "Only available <after discovering [Sedentism]>"],
+		"excludedDifficulties": ["Warlord", "Prince", "King", "Emperor", "Immortal", "Deity"]
+	},
+	{
+		"name": "libera un generale",
+		"notification": "Per pura sorte, abbiamo tratto in salvo un ex generale!",
+		"uniques": [
+			"Free [Great General] found in the ruins",
+			"Only available <after discovering [Mining]>"
+		],
+		"color": "#e89220",
+		"excludedDifficulties": ["Immortal", "Deity"]
+	},
+	{
+		"name": "salva un mercante",
+		"notification": "Abbiamo tratto in salvo un [Great Merchant]!",
+		"uniques": [
+			"Free [Great Merchant] found in the ruins",
+			"Only available <after discovering [Coinage]>"
+		],
+		"color": "#e89220"
+	},
+	{
+		"name": "l'unità esploratrice riceve addestramento",
+		"notification": "Un'antica tribù ci ha addestrato nelle loro tecniche di combattimento!",
+		"uniques": ["[This Unit] gains [15] XP"],
+		"color": "#20afe8"
+	},
+	{
+		"name": "addestramento durissimo",
+		"notification": "I tuoi uomini affrontano un addestramento durissimo!",
+		"uniques": [
+			"[This Unit] gains [30] XP",
+			"Only available <after discovering [Mining]>"
+		],
+		"color": "#20afe8"
+	},
+	{
+		"name": "equipaggiamento da esploratore",
+		"notification": "La nostra unità scopre un equipaggiamento utile nascosto tra le rovine!",
+		"uniques": [
+			"[This Unit] gains the [Explorer] promotion",
+			"Only available <after discovering [Fire Control]>"
+		],
+		"color": "#20afe8"
+	},
+	{
+		"name": "armamento avanzato per l'esploratore",
+		"notification": "La nostra unità scopre armi avanzate nascoste tra le rovine!",
+		"uniques": ["[This Unit] upgrades for free including special upgrades"],
+		"color": "#20afe8"
+	},
+	{
+		"name": "lanciere di leva",
+		"notification": "Un giovane [Spearman] si è unito alle nostre fila!",
+		"uniques": [
+			"Free [Spearman] appears",
+			"Only available <after discovering [Mining]>"
+		],
+		"color": "#20afe8"
+	},
+	{
+		"name": "viandante di leva",
+		"notification": "Un [Wayfarer] si è unito a noi!",
+		"uniques": [
+			"Free [Wayfarer] appears",
+			"Only available <after discovering [Banking]>"
+		],
+		"color": "#20afe8"
+	},
+	{
+		"name": "rivela risorse bonus vicine",
+		"notification": "Hai trovato mappe dettagliate sui terreni più fertili della zona!",
+		"uniques": [
+			"Reveal up to [All] [Bonus resource] within a [10] tile radius",
+			"Only available <after discovering [Sedentism]>"
+		]
+	},
+	{
+		"name": "rivela risorse di lusso vicine",
+		"notification": "Hai trovato appunti sulla presenza di risorse rare e preziose!",
+		"uniques": [
+			"Reveal up to [All] [Luxury resource] within a [7] tile radius",
+			"Only available <after discovering [Sedentism]>"
+		]
+	},
+	{
+		"name": "trova una mappa dettagliata",
+		"notification": "Abbiamo trovato una mappa accurata del territorio tra le rovine!",
+		"uniques": [
+			"From a randomly chosen tile [5] tiles away from the ruins, reveal tiles up to [5] tiles away with [100]% chance"
+		]
+	},
+	{
+		"name": "rivela accampamenti barbari vicini",
+		"notification": "Trovate tracce di attività barbarica. Gli accampamenti nelle vicinanze sono stati rivelati!",
+		"uniques": [
+			"Reveal up to [All] [Barbarian encampment] within a [20] tile radius"
+		]
+	},
+	{
+		"name": "verso un'era di grandezza",
+		"notification": "Aver risolto un grave problema condurrà il nostro popolo in un'era di grandezza!",
+		"uniques": [
+			"Empire enters golden age",
+			"Only available <after discovering [Mining]>"
+		],
+		"color": "#cf8ff7"
+	}
+]

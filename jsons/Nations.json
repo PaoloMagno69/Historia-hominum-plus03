@@ -1,0 +1,23 @@
+[
+	//Mix da https://github.com/amfauzn/The-Barbarians/blob/master/jsons/Nations.json e
+	//e da https://github.com/Calais-Osterrepublic/Barbarians-but-Better/blob/master/jsons/Nations.json
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+		"innerColor": [185,12,12],
+		"style": "Barbarians",
+		"uniqueText": "Diciamo solo che c'è molto di più di quanto immagini. Ad esempio, possono guarire senza saccheggiare."
+		"uniques": [
+			"[+1] Sight <for [Scout] units>",
+			"[+1] Movement <for [Scout] units>",
+			"[+33]% Strength <for [All] units>",
+			"No movement cost to pillage <for [Military] units>",
+			"[Scout] units gain the [Seek and Capture] promotion",
+			"[{Military} {Land}] units gain the [Barbarian Strength] promotion",
+			"[{Land} {Melee}] units gain the [No Suicide] promotion",
+			"[+10]% Strength <within [2] tiles of a [Barbarian encampment]>",
+			"When defeating a [non-air] unit, earn [0] Gold and recruit it <with [100]% chance>",
+			"[+20]% Strength <in [Barbarian encampment] tiles> <for [Melee] units>"
+		]
+	}
+]

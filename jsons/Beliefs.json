@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Divinità Feline",
+    "type": "Pantheon",
+    "uniques": [
+      "[+1 Food] from every [Tempio felino]",
+      "[+2 Faith] from every [Grande Tempio di Bastet]"
+    ]
+  }
+]

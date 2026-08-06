@@ -1,0 +1,207 @@
+[
+{
+    "name": "Palace",
+	"isNationalWonder": true,
+    "cost": 0,
+    "production": 2,
+    "science": 1,
+    "gold": 0,
+    "culture": 0,
+    "happiness": 1,
+ 	"cityStrength": 1,
+		"cost": 0,
+		"uniques": ["Indicates the capital city"]
+	},
+		{
+		"name": "Monument",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+			"requiredTech": "Megalithism",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+{
+    "name": "Condizione Nomade",
+	"isNationalWonder": true,
+    "cost": 0,
+    "uniques": [
+        "Unsellable",
+        "Unbuildable",
+        "[-90]% [Food]",
+        "[-100]% [Gold]",
+        "[-90]% [Culture]"
+    ]
+},
+    {
+        "name": "Focolare del clan",
+		"cost": 10,
+        "isNationalWonder": true,
+	     "civilopediaText": [ {"text": "Oggi smettete di essere semplici animali in balia della natura per iniziare un viaggio verso... la civiltà!."}],
+	     "uniques": [ "[+1 Happiness] [in this city]"],
+         "requiredTech": "Fire Control",
+        "quote": "'Oggi smettete di essere semplici animali in balia della natura per iniziare un viaggio verso... la civiltà!' - Paolo"
+    },
+	{
+    "name": "Stele dei saggi",
+    "cost": 20,
+    "production": 1,
+    "requiredTech": "Language and Oral Traditions"
+	},
+	{
+		"name": "Cerchio dei cacciatori",
+		"cost": 20,
+		"isNationalWonder": true,
+		"uniques": [
+         "All newly-trained [Cacciatore] units [in this city] receive the [Lancia valorosa] promotion"]
+		"requiredTech": "Organized Hunting"
+	},
+	{
+    "name": "Tumulo degli antenati",
+    "cost": 30,
+    "faith": 1,
+    "requiredTech": "Ancestor Rites"
+},
+	{
+		"name": "Tempio felino",
+		"culture": 1,
+		"happiness": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Human Domestication (Cats)"
+	},
+	{
+		"name": "Grande Tempio di Bastet",
+		"isWonder": true,
+		"culture": 3,
+		"cost": 80,
+		"maintenance": 1,
+		"uniques": [ "[+1 Food, +1 Happiness] [in this city]"],
+		"requiredTech": "Human Domestication (Cats)"
+	},
+/*{
+  "name": "Altare della fecondità",
+	"cost": 30,
+	"requiredTech": "Sedentism",
+  "isNationalWonder": true,
+"description": "Luogo sacro della fertilità. Ogni 10 turni aumenta la popolazione della città per 5 volte.",
+  "uniques": [
+    "Free [Madre Africa] appears"
+  ]
+}, */
+ {
+    "name": "Altare della fecondità africana",
+    "isNationalWonder": true,
+    "description": "Luogo sacro della fertilità delle prime tribù africane di Homo Sapiens.",
+    "cost": 30,
+	 "requiredTech": "Language and Oral Traditions"
+    "uniques": [
+		"[+1] population [in capital]",
+        "[+10]% [Food]",
+		"[+10]% [Culture]"
+      ]
+  },
+	{
+    "name": "Altare della fecondità asiatica",
+    "isNationalWonder": true,
+    "description": "Luogo sacro della fertilità delle prime tribù asiatiche di Homo Sapiens.",
+    "cost": 40,
+	 "requiredTech": "Ancestor Rites"
+    "uniques": [
+		"[+1] population [in capital]",
+        "[+15]% [Food]",
+		"[+15]% [Culture]"
+      ]
+  },
+		{
+    "name": "Altare della fecondità europea",
+    "isNationalWonder": true,
+    "description": "Luogo sacro della fertilità delle prime tribù europee di Homo Sapiens.",
+    "cost": 50,
+	 "requiredTech": "Tribal Organization"
+    "uniques": [
+		"[+1] population [in capital]",
+        "[+20]% [Food]",
+		"[+20]% [Culture]"
+      ]
+  },
+	{
+    "name": "Altare della fecondità amerinda",
+    "isNationalWonder": true,
+    "description": "Luogo sacro della fertilità delle prime tribù amerinde di Homo Sapiens.",
+    "cost": 60,
+	 "requiredTech": "Tribal Society"
+    "uniques": [
+		"[+1] population [in capital]",
+        "[+22]% [Food]",
+		"[+22]% [Culture]"
+      ]
+  },
+		{
+    "name": "Altare della fecondità di Moana",
+    "isNationalWonder": true,
+    "description": "Luogo sacro della fertilità delle prime tribù di Moana di Homo Sapiens.",
+    "cost": 70,
+	 "requiredTech": "Agriculture"
+    "uniques": [
+		"[+1] population [in capital]",
+        "[+23]% [Food]",
+		"[+23]% [Culture]"
+      ]
+  },
+	{
+    "name": "Palizzata di Legno",
+    "cost": 30,
+    "cityStrength": 1.5,
+    "requiredTech": "Tribal Organization"
+},
+	{
+    "name": "Consiglio dei Capi",
+    "cost": 40,
+    "happiness": 1,
+    "requiredTech": "Tribal Society"
+}, 
+	{
+    "name": "Sentiero della Transumanza",
+    "cost": 45,
+    "food": 1,
+    "requiredTech": "Pastoralism"
+},
+	{
+    "name": "Telaio a Pesi",
+    "cost": 50,
+    "production": 1,
+    "requiredTech": "Weaving"
+},
+	{
+    "name": "Circolo di Menhir",
+    "cost": 100,
+    "faith": 2,
+    "isNationalWonder": true,
+    "requiredTech": "Megalithism"
+},
+	{
+    "name": "Piazza di Scambio",
+    "cost": 50,
+    "gold": 1,
+    "requiredTech": "Barter and Trade"
+}
+	/*{
+		"name": "Menhir della nuova alba",
+		"cost": 80,
+         "culture": 1,
+	    "uniques": ["Unbuildable"],
+		"isNationalWonder": true,
+	},*/
+	{
+        "name": "Naturia", //  Easter egg per Anto
+		"cost": 80,
+        "isWonder": true,
+	     "civilopediaText": [ {"text": "Naturia fornisce cibo, cultura, produzione e un punto ingegnere."}],
+	     "culture" : 1,
+	     "greatPersonPoints": { "Great Engineer": 1 },
+         "uniques": [ "[+1 Food, +1 Production, +1 Happiness] [in this city]"],
+        "requiredTech": "Agriculture",
+        "quote": "'Naturia non è solo cibo, Naturia è benessere e cultura.' - Paolo"
+    }
+  ]

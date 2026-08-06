@@ -1,0 +1,27 @@
+/* {
+    "isBaseRuleset": true,
+	"disableDefaultEras": true,
+    "orderedEras": [
+        "Paleolithic Era",
+        "Neolithic Era",
+		"Metal Age",
+        "Classical era",
+        "Medieval era",
+        "Renaissance era",
+        "Industrial era",
+        "Modern era",
+        "Atomic era",
+        "Information era",
+        "Future era"
+    ],
+    "constants": {
+		"maxXPfromBarbarians": 10000 /* Unlimited promotions of XP from barbarians.
+	}
+} */
+{
+  "pantheonBase": 20,
+  "pantheonGrowth": 5,
+  "constants": {
+    "maxXPfromBarbarians": 10000
+  }
+}

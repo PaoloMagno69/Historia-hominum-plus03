@@ -1,0 +1,17 @@
+/*{
+	"name": "Global uniques",
+	"uniques": [
+
+"Triggers a [Menhir della nuova alba] event <for [Major] Civilizations> <upon turn end> <after turn number [10]> <before turn number [11]>",
+"Triggers a [Caccia e raccolta] event <for [Major] Civilizations> <upon turn end> <after turn number [3]> <before turn number [4]>"
+"Triggers a [Razzie] event <for [Major] Civilizations> <upon turn end> <with [10]% chance> <starting from the [Paleolitico]> <before the [Neolitico ed era dei metalli]>",
+
+	]
+}*/
+{
+	"name": "Global uniques",
+	"uniques": [
+
+"Triggers a [Caccia e raccolta] event <for [Major] Civilizations> <upon turn end> <after turn number [1]> <before turn number [3]>"
+]
+}

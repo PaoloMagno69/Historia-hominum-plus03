@@ -1,0 +1,173 @@
+[
+	/*
+	{
+    "name": "Altare della Fecondità - Ciclo I (Madre Africa)",
+    "text": "Il rito dell'Altare inizia: grazie a Madre Africa, la comunità cresce!",
+    "triggerConditions": [
+      "City has building [Altare della fecondità]",
+      "Every [10] turns"
+    ],
+    "maxOccurrences": 1,
+    "effects": [
+      "[+1] Population in this city"
+    ]
+  },
+	{
+    "name": "Altare della Fecondità - Ciclo II (Madre Asia)",
+    "text": "Il rito dell'Altare prosegue: grazie a Madre Asia, la comunità cresce ancora!",
+    "triggerConditions": [
+      "City has building [Altare della fecondità]",
+      "Every [10] turns"
+    ],
+    "maxOccurrences": 1,
+    "effects": [
+      "[+1] Population in this city",
+      "Free [Madre Asia] unit appears"
+    ]
+  },
+  {
+    "name": "Altare della Fecondità - Ciclo III (Madre Europa)",
+    "text": "Il rito dell'Altare prosegue: grazie a Madre Europa, la comunità cresce ancora!",
+    "triggerConditions": [
+      "City has building [Altare della fecondità]",
+      "Every [20] turns"
+    ],
+    "maxOccurrences": 1,
+    "effects": [
+      "[+1] Population in this city",
+      "Free [Madre Europa] unit appears"
+    ]
+  },
+  {
+    "name": "Altare della Fecondità - Ciclo IV (Madre America)",
+    "text": "Il rito dell'Altare prosegue: grazie a Madre America, la comunità cresce ancora!",
+    "triggerConditions": [
+      "City has building [Altare della fecondità]",
+      "Every [30] turns"
+    ],
+    "maxOccurrences": 1,
+    "effects": [
+      "[+1] Population in this city",
+      "Free [Madre America] unit appears"
+    ]
+  },
+  {
+    "name": "Altare della Fecondità - Ciclo V (Madre Oceania)",
+    "text": "L'ultimo ciclo dell'Altare è compiuto: grazie a Madre Oceania, la comunità è cresciuta ancora una volta!",
+    "triggerConditions": [
+      "City has building [Altare della fecondità]",
+      "Every [40] turns"
+    ],
+    "maxOccurrences": 1,
+    "effects": [
+      "[+1] Population in this city",
+      "Free [Madre Oceania] unit appears"
+    ]
+  }, 
+  {
+    "name": "Ratto di Madre Africa",
+    "text": "Sciagura! Guerrieri nemici hanno compiuto il ratto della Madre Africa. Il vuoto lasciato dal suo rapimento getta la tribù nello sconforto e riduce la popolazione della capitale.",
+  "choices": [
+      {
+        "text": "Sciagura!",
+        "uniques": [
+          "[-5] population [in capital]"
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Ratto di Madre Asia",
+    "text": "Sciagura! Guerrieri nemici hanno compiuto il ratto della Madre Asia. Il vuoto lasciato dal suo rapimento getta la tribù nello sconforto e riduce la popolazione della capitale.",
+  "triggerConditions": [
+    "Unit [Madre Asia] is killed"
+  ],
+  "maxOccurrences": 1,
+  "effects": [
+    "[-1] Population in capital"
+  ]
+  }, 
+  {
+    "name": "Ratto di Madre Europa",
+    "text": "Sciagura! Guerrieri nemici hanno compiuto il ratto della Madre Europa. Il vuoto lasciato dal suo rapimento getta la tribù nello sconforto e riduce la popolazione della capitale.",
+ "triggerConditions": [
+    "Unit [Madre Europa] is killed"
+  ],
+  "maxOccurrences": 1,
+  "effects": [
+    "[-1] Population in capital"
+  ]
+  }, 
+  {
+    "name": "Ratto di Madre America",
+    "text": "Sciagura! Guerrieri nemici hanno compiuto il ratto della Madre America. Il vuoto lasciato dal suo rapimento getta la tribù nello sconforto e riduce la popolazione della capitale.",
+  "triggerConditions": [
+    "Unit [Madre America] is killed"
+  ],
+  "maxOccurrences": 1,
+  "effects": [
+    "[-1] Population in capital"
+  ]
+  }, 
+  {
+    "name": "Ratto di Madre Oceania",
+    "text": "Sciagura! Guerrieri nemici hanno compiuto il ratto della Madre Oceania. Il vuoto lasciato dal suo rapimento getta la tribù nello sconforto e riduce la popolazione della capitale.",
+  "triggerConditions": [
+    "Unit [Madre Oceania] is killed"
+  ],
+  "maxOccurrences": 1,
+  "effects": [
+    "[-1] Population in capital"
+  ]
+  }, */
+	
+{
+    "name": "Caccia e raccolta",
+    "text": "I nostri avi sono sopravvissuti a tempi in cui era sempre inverno, sapremo onorare i loro sacrifici?!",
+	"maxOccurrences": 1,
+    "choices": [
+        {
+            "text": "Queste terre sono ricche di selvaggina, frutti, tuberi, semi e germogli di ogni genere! Eppure il futuro è incerto poiché non sappiamo che sfide ci attendono!",
+                    }
+    ]
+}	
+	
+	
+	/*
+ 	{
+    "name": "Menhir della nuova alba",
+    "text": "I nostri  avi sono sopravvissuti a tempi in cui era sempre inverno ed il sole sembrava non volesse sorgere mai, sapremo onorare i loro sacrifici?!",
+    "choices": [
+        {
+            "text": "L'era glaciale è finita e la Terra è oggi un paradiso da esplorare!",
+            "uniques": [
+                "Gain a free [Menhir della nuova alba] [in capital] <for [Major] Civilizations> <hidden from users>",
+                      ]
+        }
+    ]
+}, 
+{
+    "name": "Caccia e raccolta",
+    "text": "Queste terre sono ricche di selvaggina, frutti, tuberi, semi e germogli di ogni genere!",
+    "choices": [
+        {
+            "text": "Potremo prosperare e far crescere il nostro popolo, chissà cosa ci riserva il futuro!",
+            "uniques": [
+                "[-95]% [Food] [in all cities] <for [Major] Civilizations> <for [75] turns> <hidden from users>",
+                "[-95]% [Gold] [in all cities] <for [Major] Civilizations> <for [75] turns> <hidden from users>",
+                "[-95]% [Culture] [in all cities] <for [Major] Civilizations> <for [75] turns> <hidden from users>"                
+            ]
+        }
+    ]
+},
+     {
+      "name": "Razzie",
+      "text": "In questi tempi bui vige la legge del più forte e razzie e saccheggi sono eventi frequentissimi!",
+		"triggerOnce": true,
+      "choices": [
+        { "text": "Prepara la difesa!",
+          "uniques": ["Rebel units may spawn <for [75] turns> <hidden from users>", "[-10 Happiness] [in all cities] <for [20] turns> <hidden from users>"]}
+              ]
+    }
+	*/
+ ]
