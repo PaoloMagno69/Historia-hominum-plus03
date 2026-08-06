@@ -23,7 +23,7 @@
 	 "buildingsToRemove": ["National Treasury"] 
 } */
 {
-{
+  {
   "pantheonBase": 20,
   "pantheonGrowth": 5,
   "constants": {
