@@ -60,7 +60,7 @@
 },
 {
 		"name": "Resilienza italiana",
-		"uniques": ["[+5] HP when healing <in friendly territory>",
+		"uniques": ["Heals [+5] HP per turn in friendly territory",
 			"[+50]% XP gained from combat"]
 },
 {
