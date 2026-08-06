@@ -59,13 +59,12 @@
 			"[+15]% Strength <vs [Barbarian] units>"]
 },
 {
-		"name": "Resilienza italiana",
-		"uniques": ["[+5] HP when healing",
-			"[+50]% XP gained from combat"]
-},
-{
 		"name": "Imperator Mundi",
 		"uniques": ["Can see invisible [All] units"]
+},
+	{
+		"name": "Resilienza italiana",
+		"uniques": ["[+5] HP when healing", "[+50]% XP gained from combat"]
 },
 		{
 		"name": "Heavy Charge",
