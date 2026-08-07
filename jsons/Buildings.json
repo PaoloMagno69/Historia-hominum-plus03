@@ -525,10 +525,10 @@
     },
 
 	{
-        "name": "Chóngshèng Sì Sāntǎ", // DA VERIFICARE
+        "name": "Tre pagode dell'Ammirazione Divina", // DA VERIFICARE
         "isWonder": true,
 	"culture" : 1,
-	"cityHealth": 50
+	"cityHealth": 50,
 	"greatPersonPoints": { "Great Artist": 1 },
         "uniques": ["[+35]% [Faith] [in this city] <for [15] turns> <upon entering a Golden Age>", "[+10]% [Gold] [in this city] <for [15] turns> <upon entering a Golden Age>"],
         "requiredTech": "Horseback Riding",
@@ -536,7 +536,7 @@
     },
 
 	{
-        "name": "Dà Yùnhé", // DA VERIFICARE
+        "name": "Gran Canale della Cina", // DA VERIFICARE
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": ["All newly-trained [Land] units [in this city] receive the [Grand Canal] promotion", "Must be on [Fresh Water]"],
@@ -558,7 +558,7 @@
     },
 
 	{
-        "name": "Gate of the Sun", // DA VERIFICARE
+        "name": "Porta del sole Tiahuanaco", // DA VERIFICARE
         "isWonder": true,
 	"faith" : 3,
 	"greatPersonPoints": { "Great Engineer": 1 },
@@ -568,7 +568,7 @@
     },
 
 	{
-        "name": "Gonabad Qanat", // DA VERIFICARE
+        "name": "Qanat di Gonabad", // DA VERIFICARE
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": ["All newly-trained [Worker] units [in all cities] receive the [Karez Builder] promotion", "[Worker] units gain the [Karez Builder] promotion","Must be next to [Desert]"],
@@ -577,7 +577,7 @@
     },
 
 	{
-        "name": "Great Omari Mosque", // DA VERIFICARE
+        "name": "Grande Moschea di Gaza", // DA VERIFICARE
         "isWonder": true,
 	"greatPersonPoints": { "Great Artist": 1 },
         "uniques": ["[+15]% [Faith] [in this city] <after adopting [Tradition Complete]>","[+15]% [Faith] [in this city] <after adopting [Liberty Complete]>","[+15]% [Faith] [in this city] <after adopting [Honor Complete]>","[+15]% [Faith] [in this city] <after adopting [Piety Complete]>","[+15]% [Faith] [in this city] <after adopting [Commerce Complete]>","[+15]% [Faith] [in this city] <after adopting [Rationalism Complete]>","[+15]% [Faith] [in this city] <after adopting [Order Complete]>","[+15]% [Faith] [in this city] <after adopting [Freedom Complete]>","[+15]% [Faith] [in this city] <after adopting [Autocracy Complete]>","[+15]% [Faith] [in this city] <after adopting [Patronage Complete]>"],
@@ -586,7 +586,7 @@
     },
 
 	{
-        "name": "Mada'in Saleh", // DA VERIFICARE
+        "name": "Mada'in Salih", // DA VERIFICARE
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 1 },
@@ -617,7 +617,7 @@
     },
 
 	{
-        "name": "Taq Kasra", // DA VERIFICARE
+        "name": "Arco di Ctesifonte", // DA VERIFICARE
         "isWonder": true,
 	"gold" : 2,
 	"greatPersonPoints": { "Great General": 1 },
@@ -627,7 +627,7 @@
     },
 
 	{
-        "name": "Temple of Gamla Uppsala", // DA VERIFICARE
+        "name": "Tempio di Gamla Uppsala", // DA VERIFICARE
         "isWonder": true,
 	"faith" : 2,
 	"greatPersonPoints": { "Great Artist": 1 },
@@ -637,7 +637,7 @@
     },
 
 	{
-        "name": "Sigiriya", // DA VERIFICARE
+        "name": "Sigiriya (Rocca del Leone)", // DA VERIFICARE
         "isWonder": true,
 	"culture" : 2,
 	"food" : 1,
@@ -648,7 +648,7 @@
     },
 		
 	{
-        "name": "Xuankong Temple", // DA VERIFICARE
+        "name": "Tempio Sospeso (Tempio Xuankong)", // DA VERIFICARE
         "isWonder": true,
 	"faith" : 1,
 	"greatPersonPoints": { "Great Artist": 1 },
@@ -657,8 +657,8 @@
         "quote": "'Living at risk is jumping off the cliff and building your wings on the way down' - Ray Bradbury"
     },
 //Medieval
-   	/* {
-        "name": "Cairo Citadel", // TENERE ma MEDIOEVO
+   	 {
+        "name": "Cittadella del Cairo", // TENERE ma MEDIOEVO
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": ["[+20]% Strength <for [All] units> <vs cities> ","[+10]% Strength <for [All] units> <when fighting in [Desert] tiles>", "Must be next to [Desert]"],
@@ -676,7 +676,6 @@
 	"greatPersonPoints": { "Great General": 1 },
         "uniques": ["[+5 Faith, +1 Gold] from [Fort] tiles [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Construction",
-        "quote": "'Then war broke out in heaven. Michael and his angels fought against the dragon, and the dragon and his angels fought back. But he was not strong enough, and they lost their place in heaven' - Revelation 12:7-8"
-    }, */
-	
+        "quote": "'Scoppiò quindi una guerra nel cielo: Michele e i suoi angeli combattevano contro il drago. Il drago combatteva insieme ai suoi angeli, ma non prevalse e non ci fu più posto per loro in cielo' - Apocalisse 12:7-8"
+    }	
   ]
