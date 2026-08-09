@@ -376,7 +376,7 @@
     "innerColor": [204, 153, 51],
     "uniqueName": "Fortezze Dace",
     "uniques": [
-        "Gain a free [Barracks] [in all cities]", 
+        "Free [Barracks] in all cities",
         "[-50]% maintenance costs <for [Melee] units>",
         "[+25]% [Production] [in cities near hills]"
     ],
@@ -410,7 +410,7 @@
     "uniqueName": "Tocco di Midas",
     "uniques": [
         "[+50 Gold] [in capital] <for [1000] turns>",
-        "Gain a free [Temple] [in capital]"
+        "Free [Temple] in capital"
     ],
 
     "cities": ["Gordium","Sangala","Trocmi","Midaeum"],
@@ -442,7 +442,7 @@
     "uniqueName": "Guerrieri delle Foreste",
     "uniques": [
         "[+20]% Strength <for [Warrior] units>",
-        "Gain a free [Barracks] [in all cities]",
+        "Free [Barracks] in all cities",
         "[-25]% maintenance costs <for [Mounted] units>"
     ],
 
@@ -475,8 +475,7 @@
     "uniqueName": "Furia Langobarda",
     "uniques": [
         "[+50]% Strength <for [Warrior] units>",
-        "Gain a free [Barracks] [in capital]",
-		"Gain a free [Walls] [in capital]",
+        "Free [Barracks] in capital", "Free [Walls] in capital",
         "[-20]% maintenance costs <for [Mounted] units>"
     ],
 
@@ -509,7 +508,7 @@
     "uniqueName": "Cavalleria delle Foreste",
     "uniques": [
         "[+20]% Strength <for [Horseman] units>",
-        "Gain a free [Barracks] [in capital]",
+        "Free [Barracks] in capital",
         "[-25]% maintenance costs <for [Melee] units>"
     ],
 
@@ -674,7 +673,7 @@
     "uniqueName": "Guerrieri Goti",
     "uniques": [
         "[+20]% Strength <for [Melee] units>",
-        "Gain a free [Barracks] [in capital]",
+        "Free [Barracks] in capital",
         "[-20]% maintenance costs <for [Melee] units>"
     ],
 
