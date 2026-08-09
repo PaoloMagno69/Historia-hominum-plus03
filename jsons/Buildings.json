@@ -698,7 +698,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"percentStatBonus": {"Gold": 20, "Food": 10},
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Doubles Gold given to enemy if city is captured", "[-10]% maintenance cost for buildings [in this city]"],
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "[+100]% Gold given to enemy if city is captured [in this city]", "[-10]% maintenance cost for [all] buildings [in this city]"],
 		"requiredTech": "Masonry"
 	},
 	{
@@ -778,7 +778,7 @@
  	"greatPersonPoints": {"Great Engineer": 2},
 		"specialistSlots": {"Engineer": 2},
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Doubles Gold given to enemy if city is captured", "[-10]% maintenance cost for buildings [in this city]"],
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "[+100]% Gold given to enemy if city is captured [in this city]", "[-10]% maintenance cost for [all] buildings [in this city]"],
 		"requiredTech": "Masonry"
 }
 
