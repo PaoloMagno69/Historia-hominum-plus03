@@ -213,7 +213,7 @@
         "requiredTech": "Agriculture",
         "cost": 1,
         "science": 1,
-        "uniques": ["Free [Romolo] appears", "Automatically built in all cities where it is buildable"],
+        "uniques": ["Free [Romolo] appears", "Unsellable", "Unbuildable"],
 		"quote": "Nutrita dalla lupa, Romolo muove i suoi primi passi, i primi passi di Roma e dell'Italia!"
         },  
 	    {
@@ -235,7 +235,7 @@
         "requiredTech": "Iron Working",
         "cost": 1,
         "science": 1,
-        "uniques": ["Free [Cesare] appears", "Automatically built in all cities where it is buildable"],
+        "uniques": ["Free [Cesare] appears", "Unsellable", "Unbuildable"],
 		"quote": "Veni, vidi, vici: il destino d'Italia sarà scritto con il sangue dei nemici e la gloria dei conquistatori!"
         },  
 	    {
@@ -308,7 +308,7 @@
         "requiredTech": "Rifling",
         "culture": 1,
 		"happiness": 2,
-        "uniques": ["All newly-trained [relevant] units [in this city] receive the [Stringiamci a coorte] promotion", "Free [Garibaldi] appears"],
+        "uniques": ["All newly-trained [Military] units [in this city] receive the [Stringiamci a coorte] promotion", "Free [Garibaldi] appears"],
 		"quote": "Garibaldi. Cos'è questo Garibaldi? È un uomo, niente più. Ma un uomo in tutta l'estensione sublime della parola: l'uomo della libertà, l'uomo dell'umanità. «Vir», direbbe il suo compatriota Virgilio. (Victor Hugo)"
         },
 	    {
@@ -327,7 +327,7 @@
         "requiredTech": "Ballistics",
         "culture": 1,
 		"happiness": 3,
-        "uniques": ["All newly-trained [relevant] units [in this city] receive the [Resilienza italiana] promotion", "Free [Partigiano] appears"],
+        "uniques": ["All newly-trained [Military] units [in this city] receive the [Resilienza italiana] promotion", "Free [Partigiano] appears"],
 		"quote": "Dietro ogni articolo della Costituzione, o giovani, voi dovete vedere giovani come voi che hanno dato la vita perché la libertà e la giustizia potessero essere scritte su questa Carta.(Calamandrei)"
         },
 	    /* EPOCA ATOMICA */
