@@ -53,7 +53,7 @@
 		"cost": 20,
 		"isNationalWonder": true,
 		"uniques": [
-         "All newly-trained [Cacciatore] units [in this city] receive the [Lancia valorosa] promotion"]
+         "All newly-trained [Cacciatore] units [in this city] receive the [Lancia valorosa] promotion"],
 		"requiredTech": "Organized Hunting"
 	},
 	{
