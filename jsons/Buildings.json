@@ -93,7 +93,7 @@
     "isNationalWonder": true,
     "description": "Luogo sacro della fertilità delle prime tribù africane di Homo Sapiens.",
     "cost": 30,
-	 "requiredTech": "Language and Oral Traditions"
+	 "requiredTech": "Language and Oral Traditions",
     "uniques": [
 		"[+1] population [in capital]",
         "[+10]% [Food]",
@@ -105,7 +105,7 @@
     "isNationalWonder": true,
     "description": "Luogo sacro della fertilità delle prime tribù asiatiche di Homo Sapiens.",
     "cost": 40,
-	 "requiredTech": "Ancestor Rites"
+	 "requiredTech": "Ancestor Rites",
     "uniques": [
 		"[+1] population [in capital]",
         "[+15]% [Food]",
@@ -117,7 +117,7 @@
     "isNationalWonder": true,
     "description": "Luogo sacro della fertilità delle prime tribù europee di Homo Sapiens.",
     "cost": 50,
-	 "requiredTech": "Tribal Organization"
+	 "requiredTech": "Tribal Organization",
     "uniques": [
 		"[+1] population [in capital]",
         "[+20]% [Food]",
@@ -129,7 +129,7 @@
     "isNationalWonder": true,
     "description": "Luogo sacro della fertilità delle prime tribù amerinde di Homo Sapiens.",
     "cost": 60,
-	 "requiredTech": "Tribal Society"
+	 "requiredTech": "Tribal Society",
     "uniques": [
 		"[+1] population [in capital]",
         "[+22]% [Food]",
@@ -141,7 +141,7 @@
     "isNationalWonder": true,
     "description": "Luogo sacro della fertilità delle prime tribù di Moana di Homo Sapiens.",
     "cost": 70,
-	 "requiredTech": "Agriculture"
+	 "requiredTech": "Agriculture",
     "uniques": [
 		"[+1] population [in capital]",
         "[+23]% [Food]",
@@ -683,7 +683,7 @@
 		"name": "Menhir degli antenati",
 		"cost": 80,
 	    "uniques": ["Unbuildable"],
-		"isNationalWonder": true,
+		"isNationalWonder": true
 	},
 	/* DA GREEK SPLIT */
 {
@@ -752,7 +752,7 @@
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing",
 		"civilopediaText": [
-			{"text": "Debatable history to game translation accuracy here."},
+			{"text": "Debatable history to game translation accuracy here."}
         ]
 	},
 	{
