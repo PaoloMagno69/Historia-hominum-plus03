@@ -308,7 +308,7 @@
         "requiredTech": "Rifling",
         "culture": 1,
 		"happiness": 2,
-        "uniques": [/*"All newly-trained [Military] units [in this city] receive the [Stringiamci a coorte] promotion",*/ "Free [Garibaldi] appears"],
+        "uniques": ["All newly-trained [Military] units [in this city] receive the [Stringiamci a coorte] promotion", "Free [Garibaldi] appears"],
 		"quote": "Garibaldi. Cos'è questo Garibaldi? È un uomo, niente più. Ma un uomo in tutta l'estensione sublime della parola: l'uomo della libertà, l'uomo dell'umanità. «Vir», direbbe il suo compatriota Virgilio. (Victor Hugo)"
         },
 	    {
@@ -327,7 +327,7 @@
         "requiredTech": "Ballistics",
         "culture": 1,
 		"happiness": 3,
-        "uniques": [/*"All newly-trained [Military] units [in this city] receive the [Resilienza italiana] promotion",*/ "Free [Partigiano] appears"],
+        "uniques": ["All newly-trained [Military] units [in this city] receive the [Resilienza italiana] promotion", "Free [Partigiano] appears"],
 		"quote": "Dietro ogni articolo della Costituzione, o giovani, voi dovete vedere giovani come voi che hanno dato la vita perché la libertà e la giustizia potessero essere scritte su questa Carta.(Calamandrei)"
         },
 	    /* EPOCA ATOMICA */
@@ -353,7 +353,6 @@
 		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
 	     },
 
-	/*
 /* MERAVIGLIE da il Mondo delle Meraviglie */
 	{
         "name": "Terracotta Army", // DA RekMOD
@@ -782,5 +781,5 @@
 		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Doubles Gold given to enemy if city is captured", "[-10]% maintenance cost for buildings [in this city]"],
 		"requiredTech": "Masonry"
 }
-	*/
+
   ]
