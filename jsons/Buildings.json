@@ -488,7 +488,7 @@
 	"faith" : 2,
         "uniques": [  "[+1 Food] from [Oasis] tiles [in this city]","[+1 Food] from [Lakes] tiles [in this city]","[+1 Food] from every [Monument]", "Must be next to [Coast]"],
         "requiredTech": "Sailing",
-        "quote": "Nothing beside remains. Round the decay \nOf that colossal Wreck, boundless and bare \nThe lone and level sands stretch far away.' - Ozymandias, Percy Bysshe Shelley"
+        "quote": "'Nothing beside remains. Round the decay \nOf that colossal Wreck, boundless and bare \nThe lone and level sands stretch far away.' - Ozymandias, Percy Bysshe Shelley"
     },
 
 	{
