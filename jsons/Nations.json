@@ -272,7 +272,7 @@
     "innerColor": [65, 141, 254],
     "uniqueName": "Tirannide Siracusana",
     "uniques": [
-        "[-50]% City-State Influence degradation", "Gain a free [Harbor] [in all coastal cities]", 
+        "[-50]% City-State Influence degradation", "[+15]% [Gold] [in all cities connected to capital]",
         "[-66]% maintenance costs <for [Water] units>",
     ],
     "cities": [
