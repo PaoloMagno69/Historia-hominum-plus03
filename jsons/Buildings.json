@@ -352,6 +352,8 @@
 		"specialistSlots": {"Artist": 1},
 		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
 	     },
+
+	/*
 /* MERAVIGLIE da il Mondo delle Meraviglie */
 	{
         "name": "Terracotta Army", // DA RekMOD
@@ -780,4 +782,5 @@
 		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Doubles Gold given to enemy if city is captured", "[-10]% maintenance cost for buildings [in this city]"],
 		"requiredTech": "Masonry"
 }
+	*/
   ]
