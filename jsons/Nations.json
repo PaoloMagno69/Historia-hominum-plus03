@@ -541,7 +541,7 @@
     "uniqueName": "Cavalieri Nomadi",
     "uniques": [
         "[+25]% Strength <for [Horseman] units>",
-        "Gain a free [Stable] [in capital]",
+        "Free [Stable] in capital",
         "[-15]% maintenance costs <for [Mounted] units>"
     ],
 
@@ -575,7 +575,7 @@
     "uniques": [
         "[+25]% Strength <for [Warrior] units>",
 		"[+10]% Strength <for [Horseman] units>",
-        "Gain a free [Temple] [in capital]"        
+        "Free [Temple] [in capital]"        
     ],
 
     "cities": ["Sappo","Beroe","Abdera","Thasos"],
@@ -607,7 +607,7 @@
     "uniqueName": "Cavalleria Mauri",
     "uniques": [
         "[+20]% Strength <for [Horseman] units>",
-        "Gain a free [Stable] [in capital]",
+        "Free [Stable] [in capital]",
         "[-25]% maintenance costs <for [Mounted] units>"
     ],
 
@@ -640,7 +640,7 @@
     "uniqueName": "Cavalieri Numidi",
     "uniques": [
         "[+25]% Strength <for [Horseman] units>",
-        "Gain a free [Stable] [in capital]",
+        "Free [Stable] [in capital]",
         "[-15]% maintenance costs <for [Mounted] units>"
     ],
 
