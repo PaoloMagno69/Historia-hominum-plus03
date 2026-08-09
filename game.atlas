@@ -4585,19 +4585,6 @@ UnitIcons/VISHNU-I
   index: -1
 
 
-game10.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-TileSets/AbsoluteUnits/Units/Guerriero italico
-  rotate: false
-  xy: 107, 585
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-
 game11.png
 size: 1024, 512
 format: RGBA8888
