@@ -648,7 +648,7 @@
 		"strength": 10,
 		"cost": 45,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles", "Transfer Movement to [Epibatai]", "[+50]% Strength when stacked with [Epibatai]"],
+		"uniques": ["Cannot enter ocean tiles", "Transfer Movement to [Epibatai]", "[+50]% Strength <when stacked with a [Epibatai] unit>"],
                 "promotions": ["Boarding Party I", "Boarding Party II"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
@@ -684,7 +684,7 @@
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
                 "promotions": ["Drill I", "Ignore terrain cost"],
-                "uniques": ["May withdraw before melee ([66]%)", "Can move immediately once bought", "[+100]% to Flank Attack bonuses"],
+                "uniques": ["Withdraws before melee combat <with [66]% chance>", "Can move immediately once bought", "[+100]% to Flank Attack bonuses"],
 		"attackSound": "throw",
 "civilopediaText": [ 
                          { 
@@ -768,7 +768,7 @@
 		"cost": 40,
 		"requiredTech": "Pottery",
   "promotions": ["Supply"]
-  "uniques": ["[+1] Sight <in [Coast] tiles>", "May withdraw before melee ([40]%)"],
+  "uniques": ["[+1] Sight <in [Coast] tiles>", "Withdraws before melee combat <with [40]% chance>"],
 		"upgradesTo": "Caravel",
 		"attackSound": "nonmetalhit"
 	},
@@ -827,7 +827,7 @@
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
 		"promotions": ["Quick Study","Cover I"],
-		"uniques": ["Defense bonus when embarked"]
+		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>"]
 		"attackSound": "arrow"
 	},
 		{
