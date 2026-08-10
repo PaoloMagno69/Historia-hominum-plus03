@@ -763,7 +763,7 @@
   "happiness": 1,
   "culture": 1,
 		"maintenance": 1,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "+1 Philosopher slot (+1 [Science], +2 [Culture], +2 Great Scientist Points)"],
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing",
 		"civilopediaText": [
 			{"text": "Debatable history to game translation accuracy here."},
@@ -783,8 +783,8 @@
 		"uniques":
 				["[+1 Faith] <starting from the [Classical era]>", 
 "[-1 Faith, +1 Gold] <starting from the [Industrial era]>", 
-					"[+1 Production] after adopting [Honor]>",
-					"[+1 Production] after adopting [Monarchy]>"]
+					"[+1 Production] <after adopting [Honor]>",
+					"[+1 Production] <after adopting [Monarchy]>"]
 },
 	{
 		"name": "Basilikoi Paides",
