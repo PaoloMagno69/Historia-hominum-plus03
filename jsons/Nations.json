@@ -249,6 +249,65 @@
         "spyNames": ["Jason", "Narcissus", "Heracles", "Oedipus", "Niobe", "Andros", "Sappho", "Antheas", "Soter", "Loindiraos", "Enodia"]
     },
 	{
+		"name": "Mycenae",
+		"leaderName": "Agamemnon",
+		"adjective": ["Mycenaen"],
+"personality": "Mycenae",
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+                "style": "Mediterranean",
+		
+		"declaringWar": "What's yours is mine, and what's mine will be more.",
+		"attacked": "Ugh, we'll see whay my wife has to say about this.",
+		"defeated": "A day will come when sacred Troy shall perish, and Priam and his people shall be slain. Is this too, the fate of Mycenae?",
+		"introduction": "Well met your grace. I am Agamemnon, and I am argooning right now.",
+		
+		"neutralHello": "What's this about?",
+		"hateHello": "Where the FUCK is my wife?",
+		"tradeRequest": "Out of curiosity, would you want a huge wooden horse? \nNo? \nWhy not?",
+		
+		"outerColor": [185,165,35],
+		"innerColor": [180,20,20],
+		"uniqueName": "Cyclopean Construction",
+		"uniqueText": "Defensive buildings give 12% [Production] towards Melee units, and are built 50% faster on cities on [Hill]. Sword and Melee gun units are 20% stronger on foreign continents. Gain Great Artists 25% faster during wars.",
+ "uniques": ["[+50]% Production when constructing [Walls] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Walls]>", "[+50]% Production when constructing [Castle] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Castle]>", "[+50]% Production when constructing [Arsenal] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Arsenal]>", "[+50]% Production when constructing [Military Base] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Military Base]>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Bomb Shelter]>", "[+50]% Production when constructing [Military Base] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Bomb Shelter]>", "[+20]% Strength for [Sword] units <on foreign continents>", "[+20]% Strength for [Gunpowder] units <on foreign continents>", "[Great Artist] is earned [25]% faster <when at war>", "Receive triple Gold from Barbarian encampments and pillaging Cities"],
+               
+		"cities": ["Mycenae","Tiryns","Pylos","Orchemeos","Iolcus","Gla", "Mytope", "Troad", "Thyresia","Pydnauros","Cyronia","Idioch"],
+		"civilopediaText": [
+			{"text":"I'm not watching that new Odyssey movie unless Brad Pitt is dressed like an armored phallus"},
+			]
+	},
+		{
+		"name": "Minoa",
+		"leaderName": "Minos",
+		"adjective": ["Minoan"],
+		"startBias": ["Coast"],
+		"personality": "Minos",
+               	"preferredVictoryType": "Cultural",
+                "style": "Mediterranean", 
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Prostrate yourself before me.",
+		"attacked": "Hah, what, were you thinking of swimming over here? \n\n...\n\n I'm not actually in Krete right now, am I?",
+		"defeated": "Man fuck you.",
+		"introduction": "I am King Minos of Minoa, try not to track dirt all over my palace.",
+
+		"neutralHello": "Hello, got your gift basket?.",
+		"hateHello": "My son's getting real hangry right now.",
+
+		"tradeRequest": "Hear me out.",
+
+		"outerColor": [32,141,235],
+		"innerColor": [212,42,32],
+		"uniqueName": "First European Civilization",
+		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+1 Happiness] from all [Culture] buildings", "[+33]% [Culture] <during a golden age>", "[-25]% Production when constructing [{Land} {Military}] units [in all cities]"]
+		"cities": ["Knossos", "Gortyn", "Phaistos","Malia", "Gortyna", "Zakros","Akotiri","Gournia","Myrtos","Agia Triadha","Ida","Khania",
+		"Sklavokambos","Tylissos","Amnisos","Nirou Khani","Vathypero","Arcanes","Agia Pelagia","Vasiliki","Kamaizi","Armenoi",
+		"Maleme","Platyvola","Kalami","Stylos","Myxorrouma","Saklouria","Apodhoulou"]
+		},
+	{
     "name": "Siracusa",
     "leaderName": "Dionisio II",
     "adjective": ["Siracusano"],
