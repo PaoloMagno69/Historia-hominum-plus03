@@ -272,7 +272,7 @@
     "innerColor": [65, 141, 254],
     "uniqueName": "Tirannide Siracusana",
     "uniques": [
-        "[-50]% City-State Influence degradation", "-90% Production cost of [Harbor] buildings",
+        "[-50]% City-State Influence degradation", "-90% Production cost of [Harbor]",
         "[-66]% maintenance costs <for [Water] units>",
     ],
     "cities": [
