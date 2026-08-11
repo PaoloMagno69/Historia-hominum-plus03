@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Paper Maker",
+		"name": "Impero Han Paper Maker",
 		"replaces": "Library",
 		"uniqueTo": "Impero Han",
 		"hurryCostModifier": 25,
@@ -9,7 +9,7 @@
 		"requiredTech": "Writing"
 	},
 	{
-		"name": "Burial Tomb",
+		"name": "Impero Egizio Burial Tomb",
 		"replaces": "Temple",
 		"uniqueTo": "Impero Egizio",
 		"maintenance": 0,
@@ -21,7 +21,7 @@
 		"requiredTech": "Philosophy"
 	},
 	{
-		"name": "Bazaar",
+		"name": "Califfato Arabo Bazaar",
 		"replaces": "Market",
 		"uniqueTo": "Califfato Arabo",
 		"gold": 2,
@@ -33,7 +33,7 @@
 		"requiredTech": "Currency"
 	},
 	{
-		"name": "Mughal Fort",
+		"name": "Impero Maurya Mughal Fort",
 		"cost": 150,
 		"replaces": "Castle",
 		"uniqueTo": "Impero Maurya",
@@ -46,7 +46,7 @@
 		"requiredTech": "Chivalry"
 	},
 	{
-		"name": "Satrap's Court",
+		"name": "Impero Persiano Satrap's Court",
 		"replaces": "Bank",
 		"uniqueTo": "Impero Persiano",
 		"gold": 2,
