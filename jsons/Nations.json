@@ -331,9 +331,7 @@
     "innerColor": [65, 141, 254],
     "uniqueName": "Tirannide Siracusana",
     "uniques": [
-        "[-50]% City-State Influence degradation", "-90% Production cost of [Harbor]",
-        "[-66]% maintenance costs <for [Water] units>",
-    ],
+        "[-50]% City-State Influence degradation", "[-66]% maintenance costs <for [Water] units>"],
     "cities": [
         "Siracusa","Ortigia","Akrai","Akragas","Enna","Taormina","Catania","Cefalù","Noto","Gela","Modica",
         "Pantalica","Megara Hyblaea","Casmenae","Camarina","Selinunte","Segesta","Panormus","Messana","Zancle",
@@ -435,7 +433,6 @@
     "innerColor": [204, 153, 51],
     "uniqueName": "Fortezze Dace",
     "uniques": [
-        "Free [Barracks] in all cities",
         "[-50]% maintenance costs <for [Melee] units>",
         "[+25]% [Production] [in cities near hills]"
     ],
@@ -468,9 +465,7 @@
     "innerColor": [153, 102, 51],
     "uniqueName": "Tocco di Midas",
     "uniques": [
-        "[+50 Gold] [in capital] <for [1000] turns>",
-        "Free [Temple] in capital"
-    ],
+        "[+50 Gold] [in capital] <for [1000] turns>"],
 
     "cities": ["Gordium","Sangala","Trocmi","Midaeum"],
 
@@ -501,7 +496,6 @@
     "uniqueName": "Guerrieri delle Foreste",
     "uniques": [
         "[+20]% Strength <for [Warrior] units>",
-        "Free [Barracks] in all cities",
         "[-25]% maintenance costs <for [Mounted] units>"
     ],
 
@@ -534,7 +528,6 @@
     "uniqueName": "Furia Langobarda",
     "uniques": [
         "[+50]% Strength <for [Warrior] units>",
-        "Free [Barracks] in capital", "Free [Walls] in capital",
         "[-20]% maintenance costs <for [Mounted] units>"
     ],
 
@@ -567,7 +560,6 @@
     "uniqueName": "Cavalleria delle Foreste",
     "uniques": [
         "[+20]% Strength <for [Horseman] units>",
-        "Free [Barracks] in capital",
         "[-25]% maintenance costs <for [Melee] units>"
     ],
 
@@ -600,8 +592,7 @@
     "uniqueName": "Cavalieri Nomadi",
     "uniques": [
         "[+25]% Strength <for [Horseman] units>",
-        "Free [Stable] in capital",
-        "[-15]% maintenance costs <for [Mounted] units>"
+       "[-15]% maintenance costs <for [Mounted] units>"
     ],
 
     "cities": ["Olbia","Tanais","Basilea","Iazyges"],
@@ -633,8 +624,7 @@
     "uniqueName": "Guerrieri Traci",
     "uniques": [
         "[+25]% Strength <for [Warrior] units>",
-		"[+10]% Strength <for [Horseman] units>",
-        "Free [Temple] [in capital]"        
+		"[+10]% Strength <for [Horseman] units>"    
     ],
 
     "cities": ["Sappo","Beroe","Abdera","Thasos"],
@@ -666,7 +656,6 @@
     "uniqueName": "Cavalleria Mauri",
     "uniques": [
         "[+20]% Strength <for [Horseman] units>",
-        "Free [Stable] [in capital]",
         "[-25]% maintenance costs <for [Mounted] units>"
     ],
 
@@ -699,7 +688,6 @@
     "uniqueName": "Cavalieri Numidi",
     "uniques": [
         "[+25]% Strength <for [Horseman] units>",
-        "Free [Stable] [in capital]",
         "[-15]% maintenance costs <for [Mounted] units>"
     ],
 
@@ -732,7 +720,6 @@
     "uniqueName": "Guerrieri Goti",
     "uniques": [
         "[+20]% Strength <for [Melee] units>",
-        "Free [Barracks] in capital",
         "[-20]% maintenance costs <for [Melee] units>"
     ],
 
