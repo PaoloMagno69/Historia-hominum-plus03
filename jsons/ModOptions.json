@@ -23,8 +23,7 @@
 	 "buildingsToRemove": ["National Treasury"] 
 } */
 {
-  {
-  "pantheonBase": 20,
+    "pantheonBase": 20,
 	"nationsToRemove":["Brussels","Bucharest","Florence","Kabul","Kathmandu","Kuala Lumpur","Milan","Monaco","Prague",
 	 "Yerevan","Cape Town","Helsinki","Manila","Mogadishu","Mombasa","Quebec City","Ragusa","Rio de Janeiro","Sydney",
 	 "Ur","Vancouver","Venice","Antwerp","Cahokia","Colombo","Genoa","Hong Kong","Singapore","Tyre","Zanzibar",
