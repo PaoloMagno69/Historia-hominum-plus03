@@ -200,29 +200,33 @@
   },
   {
     "name": "Impero Egizio",
-    "leaderName": "Ramesse II",
-    "adjective": ["Egyptian"],
-    "startBias": ["Avoid [Tundra]"],
-    "preferredVictoryType": "Cultural",
-    "personality": "Ramesses II",
-    "startIntroPart1": "O Ramesse II, Faraone dell'Egitto e Re dei Re! Sotto il tuo regno immortale, l'Egitto ha eretto monumenti colossali ed esteso i suoi confini lungo le sponde del Nilo fino ai confini del Vicino Oriente. Hai guidato i tuoi carri nella leggendaria battaglia di Kadesh e portato il Regno a un'era di ricchezza e gloria ineguagliabili.",
-    "startIntroPart2": "Glorioso Faraone, il tuo popolo chiede di mostrare nuovamente al mondo la magnificenza dell'Egitto! I tuoi monumenti e la tua forza militare illumineranno il cammino delle civiltà? Il tuo nuovo impero risplenderà attraverso le ere della storia?",
-    "declaringWar": "La pazienza del Faraone si è esaurita. Le mie armate e i miei carri marceranno sui tuoi territori.",
-    "attacked": "Osi sfidare il figlio del sole? L'Egitto cancella i suoi nemici dalla memoria del mondo!",
-    "defeated": "Il mio impero cade, ma i monumenti che ho eretto rimarranno eterni nei secoli.",
-    "denounced": "Un gesto insolente da parte di un sovrano così insignificante.",
-    "introduction": "Ti do il benvenuto nella terra dei Faraoni. Sono Ramesse II, sovrano dell'Alto e Basso Egitto.",
-    "neutralHello": "Pace a te.",
-    "hateHello": "Cosa osi chiedere al Faraone?",
-    "tradeRequest": "Il grande Egitto ti propone questo scambio. Che ne dici?",
-    "outerColor": [240, 200, 0],
-    "innerColor": [10, 50, 130],
-    "favoredReligion": "Amun-Ra",
-    "uniqueName": "Monumental Dynasty",
-    "uniques": ["[+20]% Production when constructing [Wonder] buildings"],
-    "cities": ["Thebes","Memphis","Heliopolis","Alexandria","Elephantine","Pi-Ramesses","Giza","Abydos","Asyut","Aswan","Luxor","Edfu","Karnak","Tanis","Sais","Bubastis"],
-    "spyNames": ["Neferefre", "Siamun", "Pami", "Khamudi", "Iset", "Seti", "Mereruka", "Ahmose", "Beketaten", "Amenhotep"]
-  },
+   "leaderName": "Ramses II",
+  "adjective": ["Egyptian"],
+  "startBias": ["Avoid [Jungle]", "Avoid [Forest]"],
+  "preferredVictoryType": "Cultural",
+  "personality": "Ramesses II",
+
+  "startIntroPart1": "O grande Ramses, Faraone d'Egitto, luminoso come il Sole e possente come il Nilo! Signore di tutti gli esseri viventi, guidi la più grande di tutte le civiltà, che ha donato al mondo la scrittura, la matematica avanzata, la scultura e l'architettura. I monumenti e la cultura egizia continueranno a stupire il mondo per migliaia di anni.",
+  "startIntroPart2": "Migliore ed eterno Ramses, l'Egitto è durato per millenni, mentre altre civiltà sono scomparse nella polvere dopo pochi secoli. Amon-Ra ti benedice ancora una volta per guidare l'Egitto e il suo popolo sulla via della luce. Il tuo nuovo impero brillerà attraverso le ere della storia?",
+
+  "declaringWar": "Sei solo un parassita su questa Terra, preparati a essere eliminato!",
+  "attacked": "Sei uno stolto che fa pietà. Hai attirato su di te e sulla tua ripugnante civiltà la mia ostilità!",
+  "defeated": "Abbattimi e la mia anima tormenterà la tua per sempre, non hai vinto nulla.",
+  "introduction": "Saluti, sono Ramses il dio. Sono l'incarnazione vivente dell'Egitto, madre e padre di tutte le civiltà.",
+
+  "neutralHello": "Buondì.",
+  "hateHello": "Oh, sei tu.",
+
+  "tradeRequest": "Il generoso Egitto ti fa questa offerta.",
+
+  "outerColor": [255, 252, 3],
+  "innerColor": [83, 0, 208],
+  "favoredReligion": "Islam",
+  "uniqueName": "Monument Builders",
+  "uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
+  "cities": ["Thebes", "Memphis", "Heliopolis", "Elephantine", "Alexandria", "Pi-Ramesses", "Giza", "Byblos", "Akhetaten", "Hieraconpolis", "Abydos", "Asyut", "Avaris", "Lisht", "Buto", "Edfu", "Pithom", "Busiris", "Kahun", "Athribis", "Mendes", "Elashmunein", "Tanis", "Bubastis", "Oryx", "Sebennytus", "Akhmin", "Karnak", "Luxor", "El Kab", "Armant", "Balat", "Ellahun", "Hawara", "Dashur", "Damanhur", "Abusir", "Herakleopolis", "Akoris", "Benihasan", "Badari", "Hermopolis", "Amrah", "Koptos", "Ombos", "Naqada", "Semna", "Soleb"],
+  "spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
+}, 	  
 	
 	//Mix da https://github.com/amfauzn/The-Barbarians/blob/master/jsons/Nations.json e
 	//e da https://github.com/Calais-Osterrepublic/Barbarians-but-Better/blob/master/jsons/Nations.json
