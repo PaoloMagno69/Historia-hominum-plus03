@@ -1,19 +1,19 @@
 [ 
   /* Voglio creare 
-- Impero Maurya
-- Impero Egizio
-- Impero Romano
-- Impero Mongolo
-- Impero Cinese
-- Impero Ellenico
-- Impero Ottomano
-- Impero Persiano
-- Impero Arabo
-"[-100]% unhappiness from the number of cities",
+Impero Egizio Ramesse II
+Impero Persiano Ciro II
+Impero Macedone Alessandro Magno
+Impero Romano Traiano
+Impero Maurya Ashoka
+Impero Han Han Wudi
+Califfato Arabo Harun al-Rashid
+Impero Mongolo Gengis Khan
+Impero Ottomano Solimano il Magnifico
+	"[-100]% unhappiness from the number of cities",
 "[-50]% Unhappiness from [Population] [in all cities]" */
 
 {
-		"name": "Arabia",
+		"name": "Califfato Arabo",
 		"leaderName": "Harun al-Rashid",
 		"adjective": ["Arabian"],
 		"startBias": ["Desert"],
@@ -43,8 +43,8 @@
 
     },
 {
-		"name": "Greece",
-		"leaderName": "Alexander",
+		"name": "Impero Macedone",
+		"leaderName": "Alessandro Magno",
 		"adjective": ["Greek"],
 		"startBias": ["Coast"],
 		"preferredVictoryType":"Diplomatic",
@@ -77,8 +77,8 @@
         "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
     },
 	{
-		"name": "China",
-		"leaderName": "Wu Zetian",
+		"name": "Impero Han",
+		"leaderName": "Han Wudi",
 		"adjective": ["Chinese"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Wu Zetian",
@@ -108,8 +108,8 @@
 
     },
 {
-		"name": "Rome",
-		"leaderName": "Augustus Caesar",
+		"name": "Impero Romano",
+		"leaderName": "Traiano",
 		"adjective": ["Roman"],
 		"startBias":["Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
@@ -139,8 +139,8 @@
         "spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
     },
 {
-		"name": "India",
-		"leaderName": "Gandhi",
+		"name": "Impero Maurya",
+		"leaderName": "Ashoka",
 		"adjective": ["Indian"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Cultural",
@@ -170,8 +170,8 @@
         "spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
     },
 {
-		"name": "The Ottomans",
-		"leaderName": "Suleiman I",
+		"name": "Impero Ottomano",
+		"leaderName": "Solimano il Magnifico",
 		"adjective": ["Ottoman"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
@@ -202,8 +202,8 @@
         "spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"]
     },
 {
-		"name": "Persia",
-		"leaderName": "Darius I",
+		"name": "Impero Persiano",
+		"leaderName": "Ciro II",
 		"adjective": ["Persian"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Darius I",
@@ -235,8 +235,8 @@
         "spyNames": ["Azi", "Dabir", "Firuz", "Gaspar", "Shahzad", "Aga", "Marjane", "Peri", "Sartaj ", "Yasmin"]
     },
 {
-		"name": "Mongolia",
-		"leaderName": "Genghis Khan",
+		"name": "Impero Mongolo",
+		"leaderName": "Gengis Khan",
 		"adjective": ["Mongolian"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
