@@ -302,7 +302,7 @@
 		"outerColor": [32,141,235],
 		"innerColor": [212,42,32],
 		"uniqueName": "First European Civilization",
-		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+1 Happiness] from all [Culture] buildings", "[+33]% [Culture] <during a golden age>", "[-25]% Production when constructing [{Land} {Military}] units [in all cities]"]
+		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+1 Happiness] from all [Culture] buildings", "[+33]% [Culture] <during a Golden Age>", "[-25]% Production when constructing [{Land} {Military}] units [in all cities]"]
 		"cities": ["Knossos", "Gortyn", "Phaistos","Malia", "Gortyna", "Zakros","Akotiri","Gournia","Myrtos","Agia Triadha","Ida","Khania",
 		"Sklavokambos","Tylissos","Amnisos","Nirou Khani","Vathypero","Arcanes","Agia Pelagia","Vasiliki","Kamaizi","Armenoi",
 		"Maleme","Platyvola","Kalami","Stylos","Myxorrouma","Saklouria","Apodhoulou"]
