@@ -1,28 +1,5 @@
-/* {
-    "isBaseRuleset": true,
-	"disableDefaultEras": true,
-    "orderedEras": [
-        "Paleolithic Era",
-        "Neolithic Era",
-		"Metal Age",
-        "Classical era",
-        "Medieval era",
-        "Renaissance era",
-        "Industrial era",
-        "Modern era",
-        "Atomic era",
-        "Information era",
-        "Future era"
-    ],
-    "constants": {
-		"maxXPfromBarbarians": 10000 /* Unlimited promotions of XP from barbarians.
-	}
-}, 
-{
-	 "nationsToRemove":["Rio de Janeiro","Helsinki","Dublin","Edinburgh"],
-	 "buildingsToRemove": ["National Treasury"] 
-} */
-{
+{   
+	"isBaseRuleset": false,
     "pantheonBase": 20,
 	"nationsToRemove":["Brussels","Bucharest","Florence","Kabul","Kathmandu","Kuala Lumpur","Milan","Monaco","Prague",
 	 "Yerevan","Cape Town","Helsinki","Manila","Mogadishu","Mombasa","Quebec City","Ragusa","Rio de Janeiro","Sydney",
