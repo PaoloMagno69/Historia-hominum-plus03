@@ -1,6 +1,6 @@
 [
 	{
-		"name": "War Chariot",
+		"name": "Impero Egizio War Chariot",
 		"unitType": "Archery",
 		"uniqueTo": "Impero Egizio",
 		"replaces": "Chariot Archer",
@@ -15,7 +15,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "War Elephant",
+		"name": "Impero Maurya War Elephant",
 		"unitType": "Archery",
 		"uniqueTo": "Impero Maurya",
 		"replaces": "Chariot Archer",
@@ -30,7 +30,7 @@
 		"attackSound": "elephant"
 	},
 	{
-		"name": "Hoplite",
+		"name": "Impero Macedone Hoplite",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Impero Macedone",
@@ -44,7 +44,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Persian Immortal",
+		"name": "Impero Persiano Immortal",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Impero Persiano",
@@ -55,11 +55,11 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"promotions":["[Persian Immortal] ability"],
+		"promotions": ["[Persian Immortal] ability"],
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Companion Cavalry",
+		"name": "Impero Macedone Companion Cavalry",
 		"unitType": "Mounted",
 		"uniqueTo": "Impero Macedone",
 		"replaces": "Horseman",
@@ -76,7 +76,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Ballista",
+		"name": "Impero Romano Ballista",
 		"unitType": "Siege",
 		"replaces": "Catapult",
 		"uniqueTo": "Impero Romano",
@@ -93,7 +93,7 @@
 		"attackSound": "throw"
 	},
 	{
-		"name": "Legion",
+		"name": "Impero Romano Legion",
 		"unitType": "Sword",
 		"uniqueTo": "Impero Romano",
 		"replaces": "Swordsman",
@@ -109,7 +109,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Camel Archer",
+		"name": "Califfato Arabo Camel Archer",
 		"unitType": "Archery",
 		"replaces": "Knight",
 		"uniqueTo": "Califfato Arabo",
@@ -125,7 +125,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Keshik",
+		"name": "Impero Mongolo Keshik",
 		"unitType": "Archery",
 		"replaces": "Knight",
 		"uniqueTo": "Impero Mongolo",
@@ -143,7 +143,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Chu-Ko-Nu",
+		"name": "Impero Han Chu-Ko-Nu",
 		"unitType": "Archery",
 		"uniqueTo": "Impero Han",
 		"movement": 2,
@@ -158,7 +158,7 @@
 		"attackSound": "crossbow"
 	},
 	{
-		"name": "Janissary",
+		"name": "Impero Ottomano Janissary",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
 		"uniqueTo": "Impero Ottomano",
@@ -172,7 +172,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Sipahi",
+		"name": "Impero Ottomano Sipahi",
 		"unitType": "Mounted",
 		"replaces": "Lancer",
 		"uniqueTo": "Impero Ottomano",
@@ -189,7 +189,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Khan",
+		"name": "Impero Mongolo Khan",
 		"unitType": "Civilian",
 		"uniqueTo": "Impero Mongolo",
 		"replaces": "Great General",
