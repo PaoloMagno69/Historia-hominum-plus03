@@ -822,6 +822,78 @@
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "[+100]% Gold given to enemy if city is captured", "[-10]% maintenance cost for [all] buildings [in this city]"],
 		"requiredTech": "Masonry"
-}
+}, 
+	{
+    "name": "Tempio Frigio",
+    "uniqueTo": "Frigi",
+    "replaces": "Temple",
+    "cost": 30
+  },
+  {
+    "name": "Caserma Dacica",
+    "uniqueTo": "Daci",
+    "replaces": "Barracks",
+    "cost": 10
+  },
+  {
+    "name": "Caserma Marcomanna",
+    "uniqueTo": "Marcomanni",
+    "replaces": "Barracks",
+    "cost": 30
+  },
+  {
+    "name": "Caserma Longobarda",
+    "uniqueTo": "Longobardi",
+    "replaces": "Barracks",
+    "cost": 10
+  },
+  {
+    "name": "Mura Longobarde",
+    "uniqueTo": "Longobardi",
+    "replaces": "Walls",
+    "cost": 30
+  },
+  {
+    "name": "Caserma Alemanna",
+    "uniqueTo": "Alemanni",
+    "replaces": "Barracks",
+    "cost": 30
+  },
+  {
+    "name": "Stalla Sarmata",
+    "uniqueTo": "Sarmati",
+    "replaces": "Stable",
+    "cost": 30
+  },
+  {
+    "name": "Tempio Tracio",
+    "uniqueTo": "Traci",
+    "replaces": "Temple",
+    "cost": 30
+  },
+  {
+    "name": "Stalla Maura",
+    "uniqueTo": "Mauri",
+    "replaces": "Stable",
+    "cost": 30
+  },
+  {
+    "name": "Stalla Numida",
+    "uniqueTo": "Numidi",
+    "replaces": "Stable",
+    "cost": 30
+  },
+  {
+    "name": "Caserma Gotica",
+    "uniqueTo": "Goti",
+    "replaces": "Barracks",
+    "cost": 10
+  },
+  {
+    "name": "Porto Siracusano",
+    "uniqueTo": "Siracusa",
+    "replaces": "Harbor",
+    "cost": 10
+  }
 
   ]
