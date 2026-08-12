@@ -9,8 +9,22 @@ Impero Han Han Wudi
 Califfato Arabo Harun al-Rashid
 Impero Mongolo Gengis Khan
 Impero Ottomano Solimano il Magnifico
-	"[-100]% unhappiness from the number of cities",
-"[-50]% Unhappiness from [Population] [in all cities]" */
+	"[-50]% unhappiness from the number of cities",
+"[-50]% Unhappiness from [Population] [in all cities]" 
+	
+	
+Russia (Siberian Riches): Avere il doppio di Ferro, Cavalli e Uranio permette di schierare eserciti sconfinati
+Germany (Furor Teutonicus): La riduzione del costo di mantenimento delle truppe da terra (-25%)
+Austria (Diplomatic Marriage): Un modo perfetto per annettere
+Songhai (River Warlord): Il triplo dell'oro ottenuto dal saccheggio/conquista
+
+	Pacchetto imperiale:
+	"[-25]% Unhappiness from [Population] in cities with a [Courthouse]",
+    "[-25]% unhappiness from the number of cities",
+	"[-25]% maintenance costs <for [Land] units> <after discovering [Currency]>"
+
+	
+	*/
 
 {
     "name": "Califfato Arabo",
