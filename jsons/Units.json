@@ -283,20 +283,77 @@
             "Great Person - [War]", "Uncapturable"],
 		"movement": 5
 	   },
+  {
+    "name": "Leone",
+    "unitType": "Sword",
+    "uniqueTo": "Barbarians",
+    "movement": 3,
+    "strength": 8,
+    "cost": 20,
+    "obsoleteTech": "Metal Casting"
+  },
+  {
+    "name": "Lupo",
+    "unitType": "Sword",
+    "uniqueTo": "Barbarians",
+    "movement": 4,
+    "strength": 5,
+    "cost": 20,
+    "obsoleteTech": "Metal Casting"
+  },
+  {
+    "name": "Coccodrillo",
+    "unitType": "Sword",
+    "uniqueTo": "Barbarians",
+    "movement": 2,
+    "strength": 9,
+    "cost": 20,
+    "obsoleteTech": "Metal Casting"
+  },
+  {
+    "name": "Orso",
+    "unitType": "Sword",
+    "uniqueTo": "Barbarians",
+    "movement": 2,
+    "strength": 10,
+    "cost": 20,
+    "obsoleteTech": "Metal Casting"
+  },
+  {
+    "name": "Mammut",
+    "unitType": "Sword",
+    "uniqueTo": "Barbarians",
+    "movement": 2,
+    "strength": 12,
+    "cost": 20,
+    "obsoleteTech": "Metal Casting"
+  },
+  {
+    "name": "Tigre denti sciabola",
+    "unitType": "Sword",
+    "uniqueTo": "Barbarians",
+    "movement": 3,
+    "strength": 9,
+    "cost": 20,
+    "obsoleteTech": "Metal Casting"
+  },
 	  {
-		"name": "Animale feroce",
-		"unitType": "Sword",
-		"uniqueTo": "Barbarians",
-		"movement": 4,
-		"strength": 5,
-		"cost": 20,
-		"obsoleteTech": "Metal Casting",
-	  },
+    "name": "Gatti",
+    "unitType": "Civilian",
+    "movement": 4,
+    "maintenance": 0,
+    "cost": 5,
+    "uniques": [
+      "Can be captured (like a Settler)",
+      "Comment [L'incarnazione del divino: i gatti!]"
+    ]
+  },
   {
     "name": "Madre Africa",
     "unitType": "Civilian",
     "movement": 2,
     "maintenance": 0,
+	"requiredTech": "Human Domestication (Cats)",
     "uniques": [
       "Uncapturable",
 	 "Limited to [1] per Civilization",
