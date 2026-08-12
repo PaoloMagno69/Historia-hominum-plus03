@@ -257,7 +257,33 @@
 	"promotions": ["Ignore terrain cost"],
     "maintenance": 0
   },
-  {
+	{
+		"name": "Costruttore di Barricate",
+		"imageScale": 1,
+		"unitType": "Civilian",
+		"cost": 30,
+		"requiredTech": "Chipped Stone Tools",
+		"uniques": [
+            "Can instantly construct a [Barricata Tribale] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+            "Great Person - [War]", "Uncapturable"],
+		"movement": 5
+	   },
+	{
+		"name": "Geniere",
+		"imageScale": 1,
+		"unitType": "Civilian",
+		"cost": 50,
+		"requiredTech": "Construction",
+		"uniques": [
+            "Can instantly construct a [Avamposto] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+            "Great Person - [War]", "Uncapturable"],
+		"movement": 5
+	   },
+	  {
 		"name": "Animale feroce",
 		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
