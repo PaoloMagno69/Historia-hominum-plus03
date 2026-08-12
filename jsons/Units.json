@@ -340,6 +340,7 @@
 	  {
     "name": "Gatti",
     "unitType": "Civilian",
+    "requiredTech": "Human Domestication (Cats)",
     "movement": 4,
     "maintenance": 0,
     "cost": 5,
