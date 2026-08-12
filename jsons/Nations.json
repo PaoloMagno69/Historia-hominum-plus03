@@ -24,7 +24,7 @@
   "uniqueName": "Trade Caravans",
 "uniques": [
 	 "[+1 Gold] from each Trade Route", "[+100]% [Oil] resource production",
-   	"[-25]% Unhappiness from [Population] [in all cities]",
+   	"[-25]% Unhappiness from [Population] [in all cities] <after discovering [Civil Service]>",
     "[-25]% unhappiness from the number of cities",
 	"[-25]% maintenance costs <for [Land] units> <after discovering [Currency]>"
   ],
