@@ -17,6 +17,28 @@
 		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [15]%"],
 		"shortcutKey": "O"
 	},
+    {
+		"name": "Barricata Tribale",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [30]%",
+			"Adjacent enemy units ending their turn take [10] damage",
+			"Removes removable features when built",
+            "Will not be replaced by automated units"
+		]
+	},
+	 {
+		"name": "Avamposto",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [50]%",
+			"Adjacent enemy units ending their turn take [20] damage",
+			"Removes removable features when built",
+            "Will not be replaced by automated units"
+		]
+	},
 	/* From ITALIA-EST-AETERNAE */
 	 // Great Person improvements
 	{
