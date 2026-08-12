@@ -23,7 +23,7 @@
   "favoredReligion": "Islam",
   "uniqueName": "Trade Caravans",
 "uniques": [
-	 ["[+1 Gold] from each Trade Route", "[+100]% [Oil] resource production"],
+	 "[+1 Gold] from each Trade Route", "[+100]% [Oil] resource production",
    	"[-25]% Unhappiness from [Population] in cities with a [Courthouse]",
     "[-25]% unhappiness from the number of cities",
 	"[-25]% maintenance costs <for [Land] units> <after discovering [Currency]>"
