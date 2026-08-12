@@ -27,7 +27,10 @@
     "[+100]% [Oil] resource production",
     "[+1 Science] from each Trade Route",
     "[+20]% Gold [in all cities]",
-    "[-10]% Unhappiness from [Population] [in all cities]"
+    "[-10]% Unhappiness from [Population] [in all cities]",
+	"[-25]% Unhappiness from [Population] in cities with a [Courthouse]",
+    "[-25]% unhappiness from the number of cities",
+	"[-25]% maintenance costs <for [Land] units> <after discovering [Currency]>"
   ],
   "cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat","Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul","Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"],
   "spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
