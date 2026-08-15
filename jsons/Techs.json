@@ -314,7 +314,9 @@
                     "Calendar"
                 ],
                 "uniques": [
-                    "Enables establishment of embassies <Civilopedia link [Tutorials/Embassies]>"
+                "Enables establishment of embassies <Civilopedia link [Tutorials/Embassies]>",
+                "Enables Open Borders agreements <Civilopedia link [Tutorials/Open borders]>",
+                "Enables Defensive Pacts <Civilopedia link [Tutorials/Defensive pacts]>"
                 ],
                 "quote": "'He who destroys a good book kills reason itself.' - John Milton"
             },
