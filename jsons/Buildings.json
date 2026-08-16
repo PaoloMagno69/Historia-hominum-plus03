@@ -1,4 +1,74 @@
-[
+[ 
+	/* da valutare
+	{
+        "name": "Slave Market",
+        "replaces": "Colosseum",
+        "uniqueTo": "Kongo",
+        "production": 4,
+        "gold": 5,
+        "cost": 100,
+        "hurryCostModifier": 25,
+        "requiredTech": "Construction",
+        "uniques": [
+            "[+3 Production, +2 Gold] <after discovering [Industrialization]>",
+            "[-1] population [in this city]"
+        ]
+    },
+	 {
+        "name": "King Solomon's Temple",
+        "replaces": "National College",
+        "uniqueTo": "Israel",
+        "cost": 125,
+        "science": 3,
+        "faith": 3,
+        "culture": 1,
+        "percentStatBonus": {"science": 50},
+        "isNationalWonder": true,
+        "requiredTech": "Philosophy",
+        "uniques": [
+            "Shown while unbuilable",
+            "Unbuildable",
+            "Can be purchased for [300] [Gold] [in all cities]",
+            "Can be purchased for [390] [Faith] [in all cities]",
+            "Only available <if [Library] is constructed in all [non-[Puppeted]] cities>",
+            "Gain [75] [Faith] <(modified by game speed)> <upon expending a [Great Person] unit>",
+            "Gain [75] [Science] <(modified by game speed)> <upon expending a [Great Person] unit>"
+        ]
+    },
+	    {
+        "name": "Bahai Kubo",
+        "uniqueTo": "Philippines",
+        "cost": 0,
+        "uniques": [
+            "Unsellable",
+            "Never destroyed when the city is captured",
+            "[+1] population [in this city]",
+            "Limited to [2] per Civilization",
+            //TODO: stockpile resource for prevent 'could be captured, then rebuilt in a new city'
+            "Will not be displayed in Civilopedia",
+            "Only available <in cities without a [Palace]>",
+            "Automatically built in all cities where it is buildable"
+        ]
+    },
+	    {
+        "name": "Cloves", // Indonesian luxury
+        "uniqueTo": "Indonesia",
+        "cost": 0,
+        "uniques": [
+            "Provides [2] [Cloves]",
+            "Never destroyed when the city is captured",
+            "Unsellable",
+            "Only available <in cities without a [Cloves]>",
+            "Only available <in cities without a [Nutmeg]>",
+            "Only available <in cities without a [Pepper]>",
+            "Must be next to [Coast]",
+            "Limited to [1] per Civilization",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+	*/
+
+	
 	/* EDIFICI IMPERIALI */
 {
 		"name": "Impero Han Paper Maker",
