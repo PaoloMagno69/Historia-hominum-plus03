@@ -1,4 +1,10 @@
 [
+	{
+		"name": "Voliera",
+		"turnsToBuild": 5,
+		"techRequired": "Trapping",
+		"uniques": ["Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
 	{ 
 		"name": "Barbarian encampment", 
 		"terrainsCanBeBuiltOn": ["Land"],
