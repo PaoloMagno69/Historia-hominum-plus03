@@ -1,5 +1,12 @@
 [ 
 	/* da valutare
+		{
+		"name": "Arena (corrida)",
+		"requiredNearbyImprovedResources": ["Bulls"],
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
+	},
 	{
         "name": "Slave Market",
         "replaces": "Colosseum",
