@@ -48,7 +48,25 @@
         "type": "Follower",
         "uniques": ["May buy [Statua di Italia Turrita] buildings with [Faith] [in cities following this religion]"]
       },
+	{
+    "name": "Archivi Sacri",
+    "type": "Follower",
+    "uniques": [
+        "[+1 Science] from every [Library] <in cities with at least [3] [Followers of this Religion]>",
+        "[+1 Culture] from every [Library] <in cities with at least [3] [Followers of this Religion]>"
+    ]
+    },
+	{
+    "name": "Tesori del Tempio",
+    "type": "Follower",
+    "uniques": ["[+2 Gold] from every [Temple]"]
+    },
       ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
+	{
+    "name": "Crociata Divina",
+    "type": "Founder",
+    "uniques": ["Gain [150] [Gold] <upon conquering a city> <(modified by game speed)>"]
+    }
 	
 	 ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
 ]
