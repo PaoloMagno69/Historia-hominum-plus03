@@ -1,3 +1,6 @@
+/* Fonte https://github.com/AceHank/CS-Overhaul/tree/main */
+
+
 Each City States inherit its major type effect (i.e CS in Cultured Section will inherit stated effect in Cultured)
 
 Cultured: "[+4 Culture] <before the [Medieval era]>",
